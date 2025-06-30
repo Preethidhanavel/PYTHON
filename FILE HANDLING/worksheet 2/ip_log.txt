@@ -1,0 +1,8 @@
+[2025-06-26 10:00:01] Ping to server 192.168.1.100 succeeded.
+[2025-06-26 10:01:22] Connection from 10.0.0.1 accepted.
+[2025-06-26 10:02:33] Connection from 172.16.0.5 accepted.
+[2025-06-26 10:03:44] Ping to 192.168.1.100 failed. Retrying...
+[2025-06-26 10:04:55] Unauthorized access attempt from 999.999.999.999
+[2025-06-26 10:05:12] Ping to server 192.168.0.200 succeeded.
+[2025-06-26 10:06:45] Malformed IP detected: 256.300.1.256
+[2025-06-26 10:07:30] Server responded from 10.10.10.10
