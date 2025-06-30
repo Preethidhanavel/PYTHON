@@ -1,0 +1,5 @@
+What is the difference between mutable and immutable data types in Python? Name three types from each category.
+mutable:can modify after creation, changing effects to orginal variable and memory location will be same
+eg:list,set,dict
+immutable:cannot modify after creation,changing value lead to creation of new object in ne memory location.
+eg:int,tuple,str

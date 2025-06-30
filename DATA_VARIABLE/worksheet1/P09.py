@@ -1,0 +1,10 @@
+#Assign two complex numbers, then print their sum, difference, and product.
+x=str(input("Enter the complex1: "))
+y=str(input("Enter the complex2: "))
+x=complex(x)
+y=complex(y)
+print("sum: real",x.real+y.real,"imaginary ",x.imag+y.imag)
+print("difference:real ",x.real-y.real,"imaginary ",x.imag-y.imag)
+print(x+y)
+print(x-y)
+print(x*y)

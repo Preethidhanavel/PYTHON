@@ -1,0 +1,4 @@
+How does Python handle integer overflow, and what happens if you assign a value greater than what a C/C++ int would allow?
+Python's int type automatically grows in size as needed.
+Internally, it switches from a fixed-size integer to a bignum (arbitrary-precision) representation.
+
