@@ -1,4 +1,12 @@
-''''''
+'''JSON Configuration Updater
+ • Concepts: File I/O, JSON processing, dictionary manipulation, and exception handling.
+ • Description:
+ Create a script that loads a JSON configuration file, updates specific keys based on given 
+conditions (for example, updating a version number or toggling a feature flag), and writes 
+the modified configuration back to disk.
+• Validation:
+ Test the script with a sample JSON file and ensure only the intended keys are modified 
+while the rest of the configuration remains intact.'''
 import json
 
 def update_config(file_path, updates):
