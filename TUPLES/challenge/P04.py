@@ -5,4 +5,4 @@ Output: [6, 15, 24]'''
 import ast
 t=input("Enter the nested tuple:")
 t=ast.literal_eval(t)
-print(tuple(sum(i) for i in t))
+print(list(sum(i) for i in t))
