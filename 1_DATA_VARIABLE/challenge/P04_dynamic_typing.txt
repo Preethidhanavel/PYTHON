@@ -1,0 +1,6 @@
+#How does Python’s dynamic typing affect performance and debugging in large applications?
+
+Python's dynamic typing makes coding fast and flexible because there is no need to declare variable types.
+Performance impact: It is slower than languages with static typing, because Python checks types at runtime.
+Debugging impact: In large applications, type errors may only show up when the program runs, 
+making bugs harder to find and requiring more testing.
